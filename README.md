@@ -1,4 +1,4 @@
-ABOUT: #H1
+ABOUT: # H1
 
 Cyberline Racing is an action-heavy vehicular combat racing video game developed by MagicIndie Softworks and released in 2017 for PC platforms like Windows and macOS (also previously on mobile 2015 - 2017).
 

@@ -10,13 +10,13 @@ You take on the role of one of the contestants—each with their own grim backst
 
 What makes Cyberline Racing distinct is its fusion of racing and shooter mechanics:
 
-Combat-Loaded Vehicles: Every car isn’t just for driving—it’s outfitted with a vast arsenal of weapons like machine guns, lasers, and plasma launchers. You use these to attack rivals, defend yourself, and clear the way to victory.
+- Combat-Loaded Vehicles: Every car isn’t just for driving—it’s outfitted with a vast arsenal of weapons like machine guns, lasers, and plasma launchers. You use these to attack rivals, defend yourself, and clear the way to victory.
 
-Fast-Paced Races: Tracks are set in diverse and dangerous environments, from cyberpunk city slums and snowy mountain passes to volcanic islands and abandoned military zones.
+- Fast-Paced Races: Tracks are set in diverse and dangerous environments, from cyberpunk city slums and snowy mountain passes to volcanic islands and abandoned military zones.
 
-Customization: As you progress, you unlock and upgrade over 30 different combat vehicles, modifying weapons, performance, and defensive systems to suit your playstyle.
+- Customization: As you progress, you unlock and upgrade over 30 different combat vehicles, modifying weapons, performance, and defensive systems to suit your playstyle.
 
-Multiple Modes: The game supports both single-player and online multiplayer modes, complete with leaderboards that track global performance.
+- Multiple Modes: The game supports both single-player and online multiplayer modes, complete with leaderboards that track global performance.
 
 While not a big-budget title, Cyberline Racing embraces a gritty cyberpunk aesthetic—a world of neon, ruin, and perpetual danger. The graphics and sound design aim to support the chaotic atmosphere of high-pressure combat racing, though the style and polish reflect its indie origins.
 

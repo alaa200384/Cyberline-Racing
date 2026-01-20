@@ -24,4 +24,5 @@ Since its release, Cyberline Racing has maintained a presence on platforms like 
 
 
 SERVER ERROR FIX
+
 The Servers were taken down by the end of 2017. To this day, the servers never came back online. So I decided to make the game playable again, without a server needed. You can now play the game normally and access every other stuff (except multiplayer, because at the moment, there is no server for this). Also: Please DO NOT download and share this around the internet to make people think that it was you who worked on this. Please, just don't. The fix was originally made by me alaa200384. You can only get the real one from here, and even updates/fixes. Have fun! Any Questions/bugs/glitches? Feel free to contact me on discord: alaa.2008.

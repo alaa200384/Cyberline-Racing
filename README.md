@@ -1,8 +1,7 @@
-# ABOUT:
+# Cyberline Racing
+## ABOUT:
 
 Cyberline Racing is an action-heavy vehicular combat racing video game developed by MagicIndie Softworks and released in 2017 for PC platforms like Windows and macOS (also previously on mobile 2015 - 2017).
-
-At first glance, the game looks like a traditional race—but it quickly becomes clear that it’s much more than just speed. Cyberline Racing blends high-octane racing with relentless combat, creating a race-to-the-death experience where offensive driving is just as important as finishing first.
 
 The game takes place in a post-apocalyptic future where society has collapsed due to greed, warfare, and corporate corruption. Outlaws, androids, and desperate survivors populate this broken world. In an effort to both entertain and test new weapons technologies, a powerful organization called Cyberline Corp organizes death races—brutal competitions where drivers don’t just race, they fight for survival.
 

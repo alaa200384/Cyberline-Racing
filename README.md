@@ -30,4 +30,4 @@ The Servers were taken down by the end of 2022. To this day, the servers never c
 You need to buy the game from steam. Then you need to go to: "C:\Program Files (x86)\Steam\steamapps\common\Cyberline Racing\game_Data\Managed\" and find "Assembly-CSharp.dll". Replace it with the .dll file you downloaded from the releases.
 
 ## CREDITS:
-Please DO NOT download and share this around the internet to make people think that it was you who worked on this. Please, just don't. The fix was originally made by me alaa200384. You can only get the real one from here, and even updates/fixes. Also, please don't mod the game/file or cheat in any way. Have fun! Any Questions/bugs/glitches? Feel free to join my discord server: https://discord.gg/NR2wt7WZYr
+Please DO NOT download and share this around the internet to make people think that it was you who worked on this. Please, just don't. The fix was originally made by me alaa200384. You can only get the real one from here on GitHub, and even updates/fixes. Also, please don't mod the game/file or cheat in any way. Have fun! Any Questions/bugs/glitches? Feel free to join my discord server: https://discord.gg/NR2wt7WZYr

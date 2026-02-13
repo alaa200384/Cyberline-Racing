@@ -24,7 +24,7 @@ Since its release, Cyberline Racing has maintained a presence on platforms like 
 
 ## SERVER ERROR FIX:
 
-The Servers were taken down by the end of 2022. To this day, the servers never came back online. So I decided to make the game playable again, by making my own server. You can now play the game normally and access every other stuff (except multiplayer, because at the moment, there is no server for this). You still need to be connected to your internet like before (for paying with credits, junkyard, etc...). Multiplayer/Leaderboard coming soon.
+The Servers were taken down by the end of 2022. To this day, the servers never came back online. So I decided to make the game playable again, by making my own server. You can now play the game normally and access every other stuff (except multiplayer, because at the moment, there is no multiplayer server for this). You still need to be connected to your internet like before (for paying with credits, junkyard, etc...). Multiplayer/Leaderboard coming soon.
 
 ## IMPORTANT NOTE: 
 You need to buy the game from steam. Then you need to go to: "C:\Program Files (x86)\Steam\steamapps\common\Cyberline Racing\game_Data\Managed\" and find "Assembly-CSharp.dll". Replace it with the .dll file you downloaded from the releases.
